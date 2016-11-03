@@ -40,4 +40,7 @@ public class HomeController {
 		return "privatepage";
 	}
 	
+	public String helloworld(){
+		return "hello";
+	}
 }
